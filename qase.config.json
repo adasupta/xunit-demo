@@ -1,0 +1,30 @@
+{
+    "mode": "testops",
+    "debug": true,
+    "environment": "prod",
+    "testops": {
+      "api": {
+        "token": "<token>"
+      },
+      "project": "<project>",
+      "run": {
+        "title": "Xunit",
+        "description": "XUnit",
+        "complete": true
+      },
+      "defect": false,
+      "batch": {
+      "size": 100
+    },
+    "configurations": {
+      "values": [
+        {
+          "name": "Operating System",
+          "value": "Mac OS"
+        }
+      ],
+      "createIfNotExists": true
+    }
+    }
+  }
+  
