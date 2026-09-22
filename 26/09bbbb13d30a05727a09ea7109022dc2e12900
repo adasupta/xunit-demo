@@ -1,0 +1,14 @@
+qase.config.json
+  h_ca615df2b152cf 1-30
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "2609bbbb13d30a05727a09ea7109022dc2e12900",
+  "prompts": {},
+  "humans": {
+    "h_ca615df2b152cf": {
+      "author": "Ankita Dasgupta <ankitadasgupta@Ankitas-MacBook-Air.local>"
+    }
+  }
+}
